@@ -292,7 +292,7 @@
         },
         "name": {
             "type": "string",
-            "maxLength": 45,
+            "maxLength": 75,
             "description": "The name of the extension"
         },
         "oauth2": {
